@@ -1,0 +1,8 @@
+<map id="i2c.c" name="i2c.c">
+<area shape="rect" id="node1" title="Implementation of I2C peripheral configuration and independent calls to init, write,..." alt="" coords="63,5,115,32"/>
+<area shape="rect" id="node2" href="$i2c_8h.html" title="Function prototypes, constants, and enums for I2C MMIO addresses, possible configuration values,..." alt="" coords="21,80,75,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="14,155,74,181"/>
+<area shape="rect" id="node5" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="186,80,265,107"/>
+<area shape="rect" id="node6" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="99,80,162,107"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="99,155,163,181"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="adc.c" name="adc.c">
+<area shape="rect" id="node1" title="Implementation of ADC configuration and sampling." alt="" coords="152,5,208,32"/>
+<area shape="rect" id="node2" href="$adc_8h.html" title="Function prototypes, constants, and enums for ADC MMIO addresses, possible configuration values,..." alt="" coords="7,80,65,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="162,155,222,181"/>
+<area shape="rect" id="node5" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="141,80,219,107"/>
+<area shape="rect" id="node6" href="$i2c_8h.html" title="Function prototypes, constants, and enums for I2C MMIO addresses, possible configuration values,..." alt="" coords="323,80,376,107"/>
+<area shape="rect" id="node8" href="$pix_8h.html" title="Neopixel specific configuration values to use with PWM (following timings / protocol for this chip ht..." alt="" coords="243,80,298,107"/>
+<area shape="rect" id="node4" href="$nvic_8h.html" title="Holds MMIO addresses for NVIC registers (and likely a NVIC struct eventually) that multiple periphera..." alt="" coords="5,155,67,181"/>
+<area shape="rect" id="node7" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="317,155,381,181"/>
+</map>

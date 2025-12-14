@@ -1,0 +1,10 @@
+<map id="stepper.c" name="stepper.c">
+<area shape="rect" id="node1" title="Implementation of 4&#45;wire stepper motor control using timer peripheral for custom speed and bidirectio..." alt="" coords="85,5,166,32"/>
+<area shape="rect" id="node2" href="$stepper_8h.html" title="Useful structs and prototypes mirroring the stepper library maintained by Arduino (see here: https://..." alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node5" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="93,229,157,256"/>
+<area shape="rect" id="node6" href="$timer_8h.html" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="191,80,259,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="9,229,69,256"/>
+<area shape="rect" id="node4" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="25,155,87,181"/>
+<area shape="rect" id="node7" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="214,155,293,181"/>
+<area shape="rect" id="node8" href="$nvic_8h.html" title="Holds MMIO addresses for NVIC registers (and likely a NVIC struct eventually) that multiple periphera..." alt="" coords="317,155,379,181"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="events.h" name="events.h">
+<area shape="rect" id="node1" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="293,5,371,32"/>
+<area shape="rect" id="node2" href="$timer_8h.html" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="161,80,229,107"/>
+<area shape="rect" id="node3" href="$gpiote_8c.html" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="5,155,80,181"/>
+<area shape="rect" id="node6" href="$ultrasonic_8c.html" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="302,155,399,181"/>
+<area shape="rect" id="node7" href="$adc_8c.html" title="Implementation of ADC configuration and sampling." alt="" coords="304,80,360,107"/>
+<area shape="rect" id="node8" href="$i2c_8c.html" title="Implementation of I2C peripheral configuration and independent calls to init, write,..." alt="" coords="385,80,437,107"/>
+<area shape="rect" id="node9" href="$pwm_8c.html" title="Implementation of generic PWM configuration and sequence loading." alt="" coords="461,80,526,107"/>
+<area shape="rect" id="node10" href="$reset_8c.html" title="Implementation for tying reset button to local reset and overriding weak GPIOTE interrupt handler." alt="" coords="551,80,617,107"/>
+<area shape="rect" id="node4" href="$stepper_8c.html" title="Implementation of 4&#45;wire stepper motor control using timer peripheral for custom speed and bidirectio..." alt="" coords="105,155,186,181"/>
+<area shape="rect" id="node5" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="211,155,277,181"/>
+</map>

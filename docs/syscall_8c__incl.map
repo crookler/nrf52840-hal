@@ -1,0 +1,15 @@
+<map id="syscall.c" name="syscall.c">
+<area shape="rect" id="node1" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="345,5,424,32"/>
+<area shape="rect" id="node2" href="$svc__num_8h.html" title="Contains constants for SVC numbers corresponding to syscalls." alt="" coords="80,80,172,107"/>
+<area shape="rect" id="node3" href="$syscall_8h.html" title="Contains stubs and structs useful for handling the SVC handler and letting it support syscalls/additi..." alt="" coords="5,229,84,256"/>
+<area shape="rect" id="node5" href="$peripheral__trap_8h.html" title="Contains syscalls that are unique to providing custom peripheral interaction to user&#45;space (all funct..." alt="" coords="109,229,242,256"/>
+<area shape="rect" id="node6" href="$multitask_8h.html" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="337,80,433,107"/>
+<area shape="rect" id="node10" href="$rtt_8h.html" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="552,155,601,181"/>
+<area shape="rect" id="node11" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="525,80,597,107"/>
+<area shape="rect" id="node12" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="627,80,689,107"/>
+<area shape="rect" id="node4" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="399,304,459,331"/>
+<area shape="rect" id="node7" href="$thread_8h.html" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="353,229,429,256"/>
+<area shape="rect" id="node8" href="$mpu_8h.html" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="267,229,329,256"/>
+<area shape="rect" id="node9" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="400,155,476,181"/>
+<area shape="rect" id="node13" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="626,155,690,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="i2c.h" name="i2c.h">
+<area shape="rect" id="node1" title="Function prototypes, constants, and enums for I2C MMIO addresses, possible configuration values,..." alt="" coords="85,5,139,32"/>
+<area shape="rect" id="node2" href="$adc_8c.html" title="Implementation of ADC configuration and sampling." alt="" coords="5,80,61,107"/>
+<area shape="rect" id="node3" href="$i2c_8c.html" title="Implementation of I2C peripheral configuration and independent calls to init, write,..." alt="" coords="86,80,138,107"/>
+<area shape="rect" id="node4" href="$peripheral__trap_8c.html" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="162,80,294,107"/>
+</map>

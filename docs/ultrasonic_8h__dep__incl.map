@@ -1,0 +1,8 @@
+<map id="ultrasonic.h" name="ultrasonic.h">
+<area shape="rect" id="node1" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="219,5,317,32"/>
+<area shape="rect" id="node2" href="$gpiote_8c.html" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="105,80,178,107"/>
+<area shape="rect" id="node4" href="$peripheral__trap_8c.html" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="202,80,334,107"/>
+<area shape="rect" id="node5" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="359,80,425,107"/>
+<area shape="rect" id="node6" href="$ultrasonic_8c.html" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="450,80,547,107"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pix.c" name="pix.c">
+<area shape="rect" id="node1" title="Implementation of pix specific details for use in PWM." alt="" coords="81,5,134,32"/>
+<area shape="rect" id="node2" href="$pix_8h.html" title="Neopixel specific configuration values to use with PWM (following timings / protocol for this chip ht..." alt="" coords="5,155,60,181"/>
+<area shape="rect" id="node4" href="$pwm_8h.html" title="Generic function prototypes, constants, and enums for PWM MMIO addresses, possible configuration valu..." alt="" coords="167,80,234,107"/>
+<area shape="rect" id="node7" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="71,80,143,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="79,229,139,256"/>
+<area shape="rect" id="node5" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="157,155,220,181"/>
+<area shape="rect" id="node6" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="194,229,258,256"/>
+<area shape="rect" id="node8" href="$rtt_8h.html" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="84,155,133,181"/>
+</map>

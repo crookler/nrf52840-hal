@@ -1,0 +1,12 @@
+<map id="timer.c" name="timer.c">
+<area shape="rect" id="node1" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="140,5,207,32"/>
+<area shape="rect" id="node2" href="$timer_8h.html" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="279,80,347,107"/>
+<area shape="rect" id="node6" href="$stepper_8h.html" title="Useful structs and prototypes mirroring the stepper library maintained by Arduino (see here: https://..." alt="" coords="104,155,187,181"/>
+<area shape="rect" id="node9" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="37,80,136,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="177,304,237,331"/>
+<area shape="rect" id="node4" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="313,155,391,181"/>
+<area shape="rect" id="node5" href="$nvic_8h.html" title="Holds MMIO addresses for NVIC registers (and likely a NVIC struct eventually) that multiple periphera..." alt="" coords="416,155,477,181"/>
+<area shape="rect" id="node7" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="73,229,135,256"/>
+<area shape="rect" id="node8" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="72,304,136,331"/>
+<area shape="rect" id="node10" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="5,155,80,181"/>
+</map>

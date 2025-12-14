@@ -1,0 +1,7 @@
+<map id="stepper.h" name="stepper.h">
+<area shape="rect" id="node1" title="Useful structs and prototypes mirroring the stepper library maintained by Arduino (see here: https://..." alt="" coords="193,5,275,32"/>
+<area shape="rect" id="node2" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="5,80,79,107"/>
+<area shape="rect" id="node3" href="$peripheral__trap_8c.html" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="103,80,235,107"/>
+<area shape="rect" id="node4" href="$stepper_8c.html" title="Implementation of 4&#45;wire stepper motor control using timer peripheral for custom speed and bidirectio..." alt="" coords="259,80,340,107"/>
+<area shape="rect" id="node5" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="365,80,431,107"/>
+</map>

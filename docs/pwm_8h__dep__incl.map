@@ -1,0 +1,5 @@
+<map id="pwm.h" name="pwm.h">
+<area shape="rect" id="node1" title="Generic function prototypes, constants, and enums for PWM MMIO addresses, possible configuration valu..." alt="" coords="40,5,107,32"/>
+<area shape="rect" id="node2" href="$pix_8c.html" title="Implementation of pix specific details for use in PWM." alt="" coords="5,80,59,107"/>
+<area shape="rect" id="node3" href="$pwm_8c.html" title="Implementation of generic PWM configuration and sequence loading." alt="" coords="83,80,149,107"/>
+</map>

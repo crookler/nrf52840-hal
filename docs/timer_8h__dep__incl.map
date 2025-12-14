@@ -1,0 +1,7 @@
+<map id="timer.h" name="timer.h">
+<area shape="rect" id="node1" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="161,5,229,32"/>
+<area shape="rect" id="node2" href="$gpiote_8c.html" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" href="$stepper_8c.html" title="Implementation of 4&#45;wire stepper motor control using timer peripheral for custom speed and bidirectio..." alt="" coords="105,80,186,107"/>
+<area shape="rect" id="node4" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="211,80,277,107"/>
+<area shape="rect" id="node5" href="$ultrasonic_8c.html" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="302,80,399,107"/>
+</map>

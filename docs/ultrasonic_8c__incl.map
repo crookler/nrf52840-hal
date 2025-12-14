@@ -1,0 +1,11 @@
+<map id="ultrasonic.c" name="ultrasonic.c">
+<area shape="rect" id="node1" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="173,5,270,32"/>
+<area shape="rect" id="node2" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="49,80,148,107"/>
+<area shape="rect" id="node7" href="$nvic_8h.html" title="Holds MMIO addresses for NVIC registers (and likely a NVIC struct eventually) that multiple periphera..." alt="" coords="155,155,216,181"/>
+<area shape="rect" id="node8" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="291,155,370,181"/>
+<area shape="rect" id="node9" href="$timer_8h.html" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="223,80,291,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="94,304,154,331"/>
+<area shape="rect" id="node4" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="5,155,80,181"/>
+<area shape="rect" id="node5" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="11,229,74,256"/>
+<area shape="rect" id="node6" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="5,304,69,331"/>
+</map>

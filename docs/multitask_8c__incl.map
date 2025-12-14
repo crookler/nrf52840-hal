@@ -1,0 +1,13 @@
+<map id="multitask.c" name="multitask.c">
+<area shape="rect" id="node1" title="Implementation of SVC handlers associated with multithreading." alt="" coords="312,5,407,32"/>
+<area shape="rect" id="node2" href="$multitask_8h.html" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="122,80,218,107"/>
+<area shape="rect" id="node7" href="$syscall_8h.html" title="Contains stubs and structs useful for handling the SVC handler and letting it support syscalls/additi..." alt="" coords="259,229,337,256"/>
+<area shape="rect" id="node8" href="$systick_8h.html" title="Address locations and types for working with the SysTick timer." alt="" coords="362,229,442,256"/>
+<area shape="rect" id="node9" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="397,80,461,107"/>
+<area shape="rect" id="node10" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="485,80,557,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="191,304,251,331"/>
+<area shape="rect" id="node4" href="$thread_8h.html" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="56,229,132,256"/>
+<area shape="rect" id="node5" href="$mpu_8h.html" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="208,155,271,181"/>
+<area shape="rect" id="node6" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="5,155,81,181"/>
+<area shape="rect" id="node11" href="$rtt_8h.html" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="476,155,525,181"/>
+</map>

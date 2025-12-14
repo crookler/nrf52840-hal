@@ -1,0 +1,7 @@
+<map id="pix.h" name="pix.h">
+<area shape="rect" id="node1" title="Neopixel specific configuration values to use with PWM (following timings / protocol for this chip ht..." alt="" coords="158,5,213,32"/>
+<area shape="rect" id="node2" href="$adc_8c.html" title="Implementation of ADC configuration and sampling." alt="" coords="5,80,61,107"/>
+<area shape="rect" id="node3" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="86,80,159,107"/>
+<area shape="rect" id="node4" href="$peripheral__trap_8c.html" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="183,80,315,107"/>
+<area shape="rect" id="node5" href="$pix_8c.html" title="Implementation of pix specific details for use in PWM." alt="" coords="340,80,393,107"/>
+</map>

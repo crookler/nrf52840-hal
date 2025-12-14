@@ -1,0 +1,10 @@
+<map id="thread.h" name="thread.h">
+<area shape="rect" id="node1" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="193,5,269,32"/>
+<area shape="rect" id="node2" href="$multitask_8h.html" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="146,155,242,181"/>
+<area shape="rect" id="node7" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="232,80,308,107"/>
+<area shape="rect" id="node3" href="$mpu_8c.html" title="Helper functions for managing the MPU and using its peripheral registers in the SCS." alt="" coords="5,229,68,256"/>
+<area shape="rect" id="node4" href="$multitask_8c.html" title="Implementation of SVC handlers associated with multithreading." alt="" coords="92,229,187,256"/>
+<area shape="rect" id="node5" href="$syscall_8c.html" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="211,229,289,256"/>
+<area shape="rect" id="node6" href="$systick_8c.html" title="Implementation of generic SysTick counter configuration." alt="" coords="313,229,392,256"/>
+<area shape="rect" id="node8" href="$mutex_8c.html" title="Implements a generic binary semaphore for handling race conditions." alt="" coords="266,155,341,181"/>
+</map>

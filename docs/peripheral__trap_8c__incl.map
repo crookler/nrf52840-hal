@@ -1,0 +1,13 @@
+<map id="peripheral_trap.c" name="peripheral_trap.c">
+<area shape="rect" id="node1" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="204,5,336,32"/>
+<area shape="rect" id="node2" href="$peripheral__trap_8h.html" title="Contains syscalls that are unique to providing custom peripheral interaction to user&#45;space (all funct..." alt="" coords="391,155,525,181"/>
+<area shape="rect" id="node4" href="$i2c_8h.html" title="Function prototypes, constants, and enums for I2C MMIO addresses, possible configuration values,..." alt="" coords="389,229,442,256"/>
+<area shape="rect" id="node6" href="$pix_8h.html" title="Neopixel specific configuration values to use with PWM (following timings / protocol for this chip ht..." alt="" coords="5,229,60,256"/>
+<area shape="rect" id="node7" href="$systick_8h.html" title="Address locations and types for working with the SysTick timer." alt="" coords="98,80,178,107"/>
+<area shape="rect" id="node8" href="$stepper_8h.html" title="Useful structs and prototypes mirroring the stepper library maintained by Arduino (see here: https://..." alt="" coords="186,155,269,181"/>
+<area shape="rect" id="node10" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="265,80,363,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="183,304,243,331"/>
+<area shape="rect" id="node5" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="325,304,389,331"/>
+<area shape="rect" id="node9" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="251,229,313,256"/>
+<area shape="rect" id="node11" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="293,155,367,181"/>
+</map>

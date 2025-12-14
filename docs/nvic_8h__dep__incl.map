@@ -1,0 +1,10 @@
+<map id="nvic.h" name="nvic.h">
+<area shape="rect" id="node1" title="Holds MMIO addresses for NVIC registers (and likely a NVIC struct eventually) that multiple periphera..." alt="" coords="228,5,289,32"/>
+<area shape="rect" id="node2" href="$adc_8h.html" title="Function prototypes, constants, and enums for ADC MMIO addresses, possible configuration values,..." alt="" coords="91,80,149,107"/>
+<area shape="rect" id="node4" href="$timer_8h.html" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="225,80,293,107"/>
+<area shape="rect" id="node8" href="$ultrasonic_8c.html" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="382,155,479,181"/>
+<area shape="rect" id="node3" href="$adc_8c.html" title="Implementation of ADC configuration and sampling." alt="" coords="5,155,61,181"/>
+<area shape="rect" id="node5" href="$gpiote_8c.html" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="85,155,160,181"/>
+<area shape="rect" id="node6" href="$stepper_8c.html" title="Implementation of 4&#45;wire stepper motor control using timer peripheral for custom speed and bidirectio..." alt="" coords="185,155,266,181"/>
+<area shape="rect" id="node7" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="291,155,357,181"/>
+</map>

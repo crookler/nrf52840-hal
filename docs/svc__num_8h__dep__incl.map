@@ -1,0 +1,4 @@
+<map id="svc_num.h" name="svc_num.h">
+<area shape="rect" id="node1" title="Contains constants for SVC numbers corresponding to syscalls." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$syscall_8c.html" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="12,80,91,107"/>
+</map>

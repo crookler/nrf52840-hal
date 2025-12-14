@@ -1,0 +1,4 @@
+<map id="peripheral_trap.h" name="peripheral_trap.h">
+<area shape="rect" id="node1" title="Contains syscalls that are unique to providing custom peripheral interaction to user&#45;space (all funct..." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="42,80,102,107"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="gpiote.c" name="gpiote.c">
+<area shape="rect" id="node1" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="125,5,200,32"/>
+<area shape="rect" id="node2" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="25,155,100,181"/>
+<area shape="rect" id="node6" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="197,155,275,181"/>
+<area shape="rect" id="node7" href="$reset_8h.html" title="Wrapper header for including very tailored functionality for allowing reset button to request a local..." alt="" coords="23,80,89,107"/>
+<area shape="rect" id="node8" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="113,80,212,107"/>
+<area shape="rect" id="node9" href="$timer_8h.html" title="Contains constants and structs used to configure the TIMER0 peripheral." alt="" coords="294,80,362,107"/>
+<area shape="rect" id="node3" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="38,229,101,256"/>
+<area shape="rect" id="node4" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="129,304,189,331"/>
+<area shape="rect" id="node5" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="37,304,101,331"/>
+<area shape="rect" id="node10" href="$nvic_8h.html" title="Holds MMIO addresses for NVIC registers (and likely a NVIC struct eventually) that multiple periphera..." alt="" coords="300,155,361,181"/>
+</map>

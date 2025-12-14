@@ -1,0 +1,14 @@
+<map id="kernel.c" name="kernel.c">
+<area shape="rect" id="node1" title="Entry point of the code with a singular main function defined." alt="" coords="180,5,253,32"/>
+<area shape="rect" id="node2" href="$rtt_8h.html" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="135,155,184,181"/>
+<area shape="rect" id="node4" href="$mpu_8h.html" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="5,229,68,256"/>
+<area shape="rect" id="node5" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="107,80,179,107"/>
+<area shape="rect" id="node6" href="$stepper_8h.html" title="Useful structs and prototypes mirroring the stepper library maintained by Arduino (see here: https://..." alt="" coords="209,155,291,181"/>
+<area shape="rect" id="node9" href="$pix_8h.html" title="Neopixel specific configuration values to use with PWM (following timings / protocol for this chip ht..." alt="" coords="96,229,151,256"/>
+<area shape="rect" id="node10" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="305,80,403,107"/>
+<area shape="rect" id="node12" href="$reset_8h.html" title="Wrapper header for including very tailored functionality for allowing reset button to request a local..." alt="" coords="427,80,494,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="187,304,247,331"/>
+<area shape="rect" id="node7" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="367,229,429,256"/>
+<area shape="rect" id="node8" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="366,304,430,331"/>
+<area shape="rect" id="node11" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="366,155,441,181"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="rtt.h" name="rtt.h">
+<area shape="rect" id="node1" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="347,5,396,32"/>
+<area shape="rect" id="node2" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="299,80,371,107"/>
+<area shape="rect" id="node3" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="5,155,79,181"/>
+<area shape="rect" id="node8" href="$syscall_8c.html" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="584,155,663,181"/>
+<area shape="rect" id="node10" href="$rtt_8c.html" title="Implementation of RTT protocol for debugger." alt="" coords="446,80,494,107"/>
+<area shape="rect" id="node4" href="$mpu_8c.html" title="Helper functions for managing the MPU and using its peripheral registers in the SCS." alt="" coords="103,155,165,181"/>
+<area shape="rect" id="node5" href="$multitask_8c.html" title="Implementation of SVC handlers associated with multithreading." alt="" coords="189,155,284,181"/>
+<area shape="rect" id="node6" href="$pix_8c.html" title="Implementation of pix specific details for use in PWM." alt="" coords="309,155,362,181"/>
+<area shape="rect" id="node7" href="$printk_8c.html" title="Implementation of debugger print functionality with helpers." alt="" coords="387,155,457,181"/>
+<area shape="rect" id="node9" href="$systick_8c.html" title="Implementation of generic SysTick counter configuration." alt="" coords="481,155,560,181"/>
+</map>

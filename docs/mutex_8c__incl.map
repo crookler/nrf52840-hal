@@ -1,0 +1,7 @@
+<map id="mutex.c" name="mutex.c">
+<area shape="rect" id="node1" title="Implements a generic binary semaphore for handling race conditions." alt="" coords="53,5,127,32"/>
+<area shape="rect" id="node2" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="5,80,81,107"/>
+<area shape="rect" id="node5" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="106,80,170,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="13,229,73,256"/>
+<area shape="rect" id="node4" href="$thread_8h.html" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="44,155,120,181"/>
+</map>

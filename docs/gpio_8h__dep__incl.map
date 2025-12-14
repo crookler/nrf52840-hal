@@ -1,0 +1,20 @@
+<map id="gpio.h" name="gpio.h">
+<area shape="rect" id="node1" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="579,5,642,32"/>
+<area shape="rect" id="node2" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="197,80,272,107"/>
+<area shape="rect" id="node11" href="$pwm_8h.html" title="Generic function prototypes, constants, and enums for PWM MMIO addresses, possible configuration valu..." alt="" coords="507,80,573,107"/>
+<area shape="rect" id="node13" href="$pwm_8c.html" title="Implementation of generic PWM configuration and sequence loading." alt="" coords="591,155,657,181"/>
+<area shape="rect" id="node14" href="$stepper_8h.html" title="Useful structs and prototypes mirroring the stepper library maintained by Arduino (see here: https://..." alt="" coords="407,155,489,181"/>
+<area shape="rect" id="node16" href="$gpio_8c.html" title="Implementation of GPIO configuration and read/writing." alt="" coords="648,80,709,107"/>
+<area shape="rect" id="node17" href="$i2c_8c.html" title="Implementation of I2C peripheral configuration and independent calls to init, write,..." alt="" coords="734,80,786,107"/>
+<area shape="rect" id="node18" href="$syscall_8c.html" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="810,80,889,107"/>
+<area shape="rect" id="node3" href="$reset_8h.html" title="Wrapper header for including very tailored functionality for allowing reset button to request a local..." alt="" coords="104,155,171,181"/>
+<area shape="rect" id="node4" href="$gpiote_8c.html" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="5,229,80,256"/>
+<area shape="rect" id="node7" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="239,155,337,181"/>
+<area shape="rect" id="node5" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="317,229,390,256"/>
+<area shape="rect" id="node6" href="$reset_8c.html" title="Implementation for tying reset button to local reset and overriding weak GPIOTE interrupt handler." alt="" coords="104,229,171,256"/>
+<area shape="rect" id="node8" href="$peripheral__trap_8c.html" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="506,229,638,256"/>
+<area shape="rect" id="node9" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="415,229,481,256"/>
+<area shape="rect" id="node10" href="$ultrasonic_8c.html" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="195,229,293,256"/>
+<area shape="rect" id="node12" href="$pix_8c.html" title="Implementation of pix specific details for use in PWM." alt="" coords="513,155,567,181"/>
+<area shape="rect" id="node15" href="$stepper_8c.html" title="Implementation of 4&#45;wire stepper motor control using timer peripheral for custom speed and bidirectio..." alt="" coords="662,229,743,256"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="systick.c" name="systick.c">
+<area shape="rect" id="node1" title="Implementation of generic SysTick counter configuration." alt="" coords="87,5,166,32"/>
+<area shape="rect" id="node2" href="$systick_8h.html" title="Address locations and types for working with the SysTick timer." alt="" coords="5,229,85,256"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="49,80,113,107"/>
+<area shape="rect" id="node5" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="137,80,209,107"/>
+<area shape="rect" id="node7" href="$multitask_8h.html" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="233,80,329,107"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="217,304,277,331"/>
+<area shape="rect" id="node6" href="$rtt_8h.html" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="126,229,175,256"/>
+<area shape="rect" id="node8" href="$thread_8h.html" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="365,229,441,256"/>
+<area shape="rect" id="node9" href="$mpu_8h.html" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="175,155,238,181"/>
+<area shape="rect" id="node10" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="314,155,390,181"/>
+</map>

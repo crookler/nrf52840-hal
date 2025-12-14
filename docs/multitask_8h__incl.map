@@ -1,0 +1,7 @@
+<map id="multitask.h" name="multitask.h">
+<area shape="rect" id="node1" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="45,5,141,32"/>
+<area shape="rect" id="node2" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="70,229,130,256"/>
+<area shape="rect" id="node3" href="$thread_8h.html" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="24,155,100,181"/>
+<area shape="rect" id="node4" href="$mpu_8h.html" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="176,155,239,181"/>
+<area shape="rect" id="node5" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="94,80,170,107"/>
+</map>

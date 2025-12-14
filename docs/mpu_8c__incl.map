@@ -1,0 +1,12 @@
+<map id="mpu.c" name="mpu.c">
+<area shape="rect" id="node1" title="Helper functions for managing the MPU and using its peripheral registers in the SCS." alt="" coords="185,5,248,32"/>
+<area shape="rect" id="node2" href="$mpu_8h.html" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="5,155,68,181"/>
+<area shape="rect" id="node4" href="$printk_8h.html" title="Prototypes for printk (print to debugger as a wrapper of rtt.h)" alt="" coords="73,80,145,107"/>
+<area shape="rect" id="node6" href="$multitask_8h.html" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="169,80,265,107"/>
+<area shape="rect" id="node9" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="403,80,467,107"/>
+<area shape="rect" id="node10" href="$syscall_8h.html" title="Contains stubs and structs useful for handling the SVC handler and letting it support syscalls/additi..." alt="" coords="352,229,431,256"/>
+<area shape="rect" id="node3" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="169,304,229,331"/>
+<area shape="rect" id="node5" href="$rtt_8h.html" title="Function prototpyes and struct definitions for writing/reading to the up and down buffer of the debug..." alt="" coords="75,229,124,256"/>
+<area shape="rect" id="node7" href="$thread_8h.html" title="Common ethread structs and constants needed according source files aiding with mulititasking." alt="" coords="200,229,276,256"/>
+<area shape="rect" id="node8" href="$mutex_8h.html" title="Provides stubs and data structures for implementing mutual exclusion." alt="" coords="252,155,328,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="syscall.h" name="syscall.h">
+<area shape="rect" id="node1" title="Contains stubs and structs useful for handling the SVC handler and letting it support syscalls/additi..." alt="" coords="100,5,179,32"/>
+<area shape="rect" id="node2" href="$mpu_8c.html" title="Helper functions for managing the MPU and using its peripheral registers in the SCS." alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" href="$multitask_8c.html" title="Implementation of SVC handlers associated with multithreading." alt="" coords="92,80,187,107"/>
+<area shape="rect" id="node4" href="$syscall_8c.html" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="211,80,289,107"/>
+</map>

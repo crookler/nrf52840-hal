@@ -1,0 +1,9 @@
+<map id="reset.c" name="reset.c">
+<area shape="rect" id="node1" title="Implementation for tying reset button to local reset and overriding weak GPIOTE interrupt handler." alt="" coords="93,5,159,32"/>
+<area shape="rect" id="node2" href="$reset_8h.html" title="Wrapper header for including very tailored functionality for allowing reset button to request a local..." alt="" coords="45,80,111,107"/>
+<area shape="rect" id="node7" href="$events_8h.html" title="Common event paradigm used by multiple peripherals including constant to indicate starting a task and..." alt="" coords="136,80,215,107"/>
+<area shape="rect" id="node3" href="$gpiote_8h.html" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="41,155,115,181"/>
+<area shape="rect" id="node4" href="$gpio_8h.html" title="Function prototypes, constants, and enums for GPIO MMIO addresses, possible configuration values,..." alt="" coords="47,229,109,256"/>
+<area shape="rect" id="node5" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="5,304,65,331"/>
+<area shape="rect" id="node6" href="$error_8h.html" title="Constants for unified error codes across all peripherals. Each error code specifies exactly one uniqu..." alt="" coords="90,304,154,331"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="gpiote.h" name="gpiote.h">
+<area shape="rect" id="node1" title="Enums and memory mapped addresses for configuring GPIOTE peripheral." alt="" coords="195,5,269,32"/>
+<area shape="rect" id="node2" href="$reset_8h.html" title="Wrapper header for including very tailored functionality for allowing reset button to request a local..." alt="" coords="115,80,181,107"/>
+<area shape="rect" id="node3" href="$gpiote_8c.html" title="Overrides weak GPIOTE interrupt handler with functionality for various configured GPIOTE channels." alt="" coords="195,155,269,181"/>
+<area shape="rect" id="node6" href="$ultrasonic_8h.html" title="Function stubs and structs for reading ultrasonic sensor ranges (following this datasheet https://www..." alt="" coords="289,80,388,107"/>
+<area shape="rect" id="node4" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="97,155,170,181"/>
+<area shape="rect" id="node5" href="$reset_8c.html" title="Implementation for tying reset button to local reset and overriding weak GPIOTE interrupt handler." alt="" coords="5,155,72,181"/>
+<area shape="rect" id="node7" href="$peripheral__trap_8c.html" title="Implements syscalls that drive custom peripheral functionality (not standardized)" alt="" coords="294,155,426,181"/>
+<area shape="rect" id="node8" href="$timer_8c.html" title="Configures timer peripheral to match desired a desired frequency and perform a custom action within t..." alt="" coords="451,155,517,181"/>
+<area shape="rect" id="node9" href="$ultrasonic_8c.html" title="Provides functionality for creating the protocol for the HC&#45;SR04 ultrasonic range sensor." alt="" coords="542,155,639,181"/>
+</map>

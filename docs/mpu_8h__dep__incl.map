@@ -1,0 +1,9 @@
+<map id="mpu.h" name="mpu.h">
+<area shape="rect" id="node1" title="MMIO addresses and common enums/structs for working with the memory protection unit." alt="" coords="108,5,171,32"/>
+<area shape="rect" id="node2" href="$multitask_8h.html" title="Stores syscall function prototypes and kernel level structs for managing inter&#45;process states." alt="" coords="91,80,187,107"/>
+<area shape="rect" id="node3" href="$mpu_8c.html" title="Helper functions for managing the MPU and using its peripheral registers in the SCS." alt="" coords="5,155,68,181"/>
+<area shape="rect" id="node7" href="$kernel_8c.html" title="Entry point of the code with a singular main function defined." alt="" coords="212,80,285,107"/>
+<area shape="rect" id="node4" href="$multitask_8c.html" title="Implementation of SVC handlers associated with multithreading." alt="" coords="92,155,187,181"/>
+<area shape="rect" id="node5" href="$syscall_8c.html" title="Implementation of SVC handler allowing for generic software&#45;pended exceptions and select NEWLIB requi..." alt="" coords="211,155,289,181"/>
+<area shape="rect" id="node6" href="$systick_8c.html" title="Implementation of generic SysTick counter configuration." alt="" coords="313,155,392,181"/>
+</map>

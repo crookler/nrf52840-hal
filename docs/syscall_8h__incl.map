@@ -1,0 +1,4 @@
+<map id="syscall.h" name="syscall.h">
+<area shape="rect" id="node1" title="Contains stubs and structs useful for handling the SVC handler and letting it support syscalls/additi..." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node2" href="$arm_8h.html" title="Macro definitions, typedefs, and aliases for common ARM functionality." alt="" coords="15,80,75,107"/>
+</map>
